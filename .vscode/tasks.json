@@ -5,7 +5,7 @@
 
         {
             "label": "build-sandbox-Sandbox",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -18,7 +18,7 @@
 
         {
             "label": "build-week01-Exercise1",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -31,7 +31,7 @@
 
         {
             "label": "build-week01-Exercise2",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -44,7 +44,7 @@
 
         {
             "label": "build-week01-Exercise3",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -57,7 +57,7 @@
 
         {
             "label": "build-week01-Exercise4",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -70,7 +70,7 @@
 
         {
             "label": "build-week01-Exercise5",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -83,7 +83,7 @@
 
         {
             "label": "build-week02-Resumes",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -96,7 +96,7 @@
 
         {
             "label": "build-week02-Journal",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -109,7 +109,7 @@
 
         {
             "label": "build-week03-Fractions",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -122,7 +122,7 @@
 
         {
             "label": "build-week03-ScriptureMemorizer",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -135,7 +135,7 @@
 
         {
             "label": "build-week04-YouTubeVideos",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -148,7 +148,7 @@
 
         {
             "label": "build-week04-OnlineOrdering",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -161,7 +161,7 @@
 
         {
             "label": "build-week05-Homework",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -174,7 +174,7 @@
 
         {
             "label": "build-week05-Mindfulness",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -187,7 +187,7 @@
 
         {
             "label": "build-week06-Shapes",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -200,7 +200,7 @@
 
         {
             "label": "build-week06-EternalQuest",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
@@ -213,7 +213,7 @@
 
         {
             "label": "build-week07-ExerciseTracking",
-            "command": "dotnet",
+            "command": "C:\\Program Files\\dotnet\\dotnet.exe",
             "type": "process",
             "args": [
                 "build",
