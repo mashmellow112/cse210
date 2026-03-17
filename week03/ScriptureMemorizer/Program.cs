@@ -79,8 +79,8 @@ class Program
                 break;
             }
             
-            // Clear screen and redisplay
-            Console.Clear();
+            // Clear screen and redisplay (using newlines for compatibility)
+            Console.WriteLine("\n\n\n\n\n\n\n\n\n\n");
             
             // Hide more words - dynamic count based on remaining words
             int wordsToHide = Math.Min(3, scripture.GetVisibleWordCount());
