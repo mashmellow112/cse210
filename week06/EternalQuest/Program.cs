@@ -12,6 +12,14 @@ using System.Text.Json;
 
 namespace EternalQuest
 {
+    public class Program
+    {
+        public static void Main()
+        {
+            Console.WriteLine("Eternal Quest initialized!");
+        }
+    }
+
     // Base class
     public abstract class Goal
     {
