@@ -1,0 +1,20 @@
+{
+  "Score": 0,
+  "Level": 1,
+  "Badges": [
+    "Goal Architect"
+  ],
+  "Goals": [
+    {
+      "GoalType": "Simple",
+      "Title": "website designing",
+      "Description": "time",
+      "Points": 12,
+      "Completed": false,
+      "TimesRecorded": 0,
+      "Count": 0,
+      "TargetCount": 0,
+      "BonusPoints": 0
+    }
+  ]
+}
